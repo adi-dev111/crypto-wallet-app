@@ -29,4 +29,4 @@ Run the app on an Android emulator: `npx react-native run-android`
 
 ## Developer
 
-Developed by **Adil**, a passionate Software Engineer with 20+ years of experience in Android, Blockchain, and AI.
+Developed by **Adil**, a passionate Software Engineer with 20+ years of experience in Android, Blockchain, and AI
